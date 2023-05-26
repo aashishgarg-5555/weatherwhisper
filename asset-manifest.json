@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weatherwhisper/static/css/main.4ff4e3bd.css",
+    "main.js": "/weatherwhisper/static/js/main.dd408d09.js",
+    "index.html": "/weatherwhisper/index.html",
+    "main.4ff4e3bd.css.map": "/weatherwhisper/static/css/main.4ff4e3bd.css.map",
+    "main.dd408d09.js.map": "/weatherwhisper/static/js/main.dd408d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff4e3bd.css",
+    "static/js/main.dd408d09.js"
+  ]
+}
